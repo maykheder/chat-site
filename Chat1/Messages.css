@@ -1,0 +1,304 @@
+@media(min-height:300px){
+    .messages{
+        height: 319px;
+        width: 252.42px;
+      
+        margin-left: 12px;
+        overflow: hidden;
+        margin-bottom: 112px;
+       
+    }
+    .mess img{
+        width: 32px;
+        height: 35px;
+        border-radius: 100%;
+        border-color: #2B2B2B;
+        
+       
+    }
+    
+    .message{
+        max-width: 200px;
+        height: 55px;
+        overflow: hidden;
+        background:linear-gradient(90180deg,#2B2B2B,#454545);
+       border-radius: 20px 20px 20px 0px;
+       color: white;
+       display: flex; 
+       align-items: flex-start;
+       flex-direction: column;
+       margin-left: 18px;
+       padding-left: 16px;
+       padding-bottom: 16px;
+       line-height: 5px;
+       margin-top: 33px;
+       padding-right: 16px;
+       word-break: break-all;
+    }
+    .message>p:nth-child(2){
+    font-size: 11px;
+    color: #CCCCCC;
+    }
+    .message>p:nth-child(1){
+        font-size: 13px;
+        word-wrap: break-word;
+        line-height: 22px;
+        }
+    .row{
+        display: flex;
+        align-items:flex-end;
+    }
+}
+@media(min-height:540px){
+    .messages{
+        height: 439px;
+        width: 252.42px;
+      
+        margin-left: 12px;
+        overflow: hidden;
+        margin-bottom: 112px;
+       
+    }
+    .mess img{
+        width: 32px;
+        height: 35px;
+        border-radius: 100%;
+        border-color: #2B2B2B;
+        
+       
+    }
+    
+    .message{
+        max-width: 200px;
+        height: 60px;
+        overflow: hidden;
+        background:linear-gradient(90180deg,#2B2B2B,#454545);
+       border-radius: 20px 20px 20px 0px;
+       color: white;
+       display: flex; 
+       align-items: flex-start;
+       flex-direction: column;
+       margin-left: 18px;
+       padding-left: 16px;
+       padding-bottom: 16px;
+       line-height: 5px;
+       margin-top: 33px;
+       padding-right: 16px;
+       word-break: break-all;
+    }
+    .message>p:nth-child(2){
+    font-size: 11px;
+    color: #CCCCCC;
+    }
+    .message>p:nth-child(1){
+        font-size: 13px;
+        word-wrap: break-word;
+        line-height: 22px;
+        }
+    .row{
+        display: flex;
+        align-items:flex-end;
+    }
+}
+@media(min-height:640px){
+    .messages{
+        height: 539px;
+        width: 302.42px;
+      
+        margin-left: 14px;
+        overflow: hidden;
+        margin-bottom: 92px;
+       
+    }
+    .mess img{
+        width: 32px;
+        height: 35px;
+        border-radius: 100%;
+        border-color: #2B2B2B;
+        
+       
+    }
+    
+    .message{
+        max-width: 210px;
+        height: 100%;
+        overflow: hidden;
+        background:linear-gradient(90180deg,#2B2B2B,#454545);
+       border-radius: 20px 20px 20px 0px;
+       color: white;
+       display: flex; 
+       align-items: flex-start;
+       flex-direction: column;
+       margin-left: 18px;
+       padding-left: 16px;
+       padding-bottom: 16px;
+       line-height: 5px;
+       margin-top: 33px;
+       padding-right: 16px;
+       word-break: break-all;
+    }
+    .message>p:nth-child(2){
+    font-size: 11px;
+    color: #CCCCCC;
+    }
+    .message>p:nth-child(1){
+        font-size: 13px;
+        word-wrap: break-word;
+        line-height: 22px;
+        }
+    .row{
+        display: flex;
+        align-items:flex-end;
+    }
+}
+@media(min-height:740px){
+    .messages{
+        height: 609px;
+        width: 332.42px;
+        margin-left: 16px;
+        overflow: hidden;
+        margin-bottom: 32px;
+       
+    }
+    .mess img{
+        width: 35px;
+        height: 35px;
+        border-radius: 100%;
+        border-color: #2B2B2B;
+        
+       
+    }
+    
+    .message{
+        max-width: 230px;
+        height: 100%;
+        overflow: hidden;
+        background:linear-gradient(90180deg,#2B2B2B,#454545);
+       border-radius: 20px 20px 20px 0px;
+       color: white;
+       display: flex; 
+       align-items: flex-start;
+       flex-direction: column;
+       margin-left: 18px;
+       padding-left: 16px;
+       padding-bottom: 16px;
+       line-height: 5px;
+       margin-top: 33px;
+       padding-right: 16px;
+       word-break: break-all;
+    }
+    .message>p:nth-child(2){
+    font-size: 11px;
+    color: #CCCCCC;
+    }
+    .message>p:nth-child(1){
+        font-size: 13px;
+        word-wrap: break-word;
+        line-height: 22px;
+        }
+    .row{
+        display: flex;
+        align-items:flex-end;
+    }
+}
+@media(min-height:812px){
+    .messages{
+        height: 639px;
+        width: 362.42px;
+      
+        margin-left: 16px;
+        overflow: hidden;
+        margin-bottom: 4px;
+       
+    }
+    .mess img{
+        width: 38px;
+        height: 38px;
+        border-radius: 100%;
+        border-color: #2B2B2B;
+        
+       
+    }
+    
+    .message{
+        max-width: 260px;
+        height: 100%;
+        overflow: hidden;
+        background:linear-gradient(90180deg,#2B2B2B,#454545);
+       border-radius: 20px 20px 20px 0px;
+       color: white;
+       display: flex; 
+       align-items: flex-start;
+       flex-direction: column;
+       margin-left: 18px;
+       padding-left: 16px;
+       padding-bottom: 16px;
+       line-height: 5px;
+       margin-top: 33px;
+       padding-right: 16px;
+       word-break: break-all;
+    }
+    .message>p:nth-child(2){
+    font-size: 12px;
+    color: #CCCCCC;
+    }
+    .message>p:nth-child(1){
+        font-size: 14px;
+        word-wrap: break-word;
+        line-height: 22px;
+        }
+    .row{
+        display: flex;
+        align-items:flex-end;
+    }
+}
+@media(min-height:896px){
+    .messages{
+        height: 639px;
+        width: 382.42px;
+        margin-bottom: 4px;
+        margin-left: 16px;
+        overflow: hidden;
+       
+    }
+    .mess img{
+        width: 41px;
+        height: 41px;
+        border-radius: 100%;
+        border-color: #2B2B2B;
+        
+       
+    }
+    
+    .message{
+        max-width: 300px;
+        height: 100%;
+        overflow: hidden;
+        background:linear-gradient(90180deg,#2B2B2B,#454545);
+       border-radius: 20px 20px 20px 0px;
+       color: white;
+       display: flex; 
+       align-items: flex-start;
+       flex-direction: column;
+       margin-left: 18px;
+       padding-left: 16px;
+       padding-bottom: 16px;
+       line-height: 5px;
+       margin-top: 33px;
+       padding-right: 16px;
+       word-break: break-all;
+    }
+    .message>p:nth-child(2){
+    font-size: 13px;
+    color: #CCCCCC;
+    }
+    .message>p:nth-child(1){
+        font-size: 15px;
+        word-wrap: break-word;
+        line-height: 22px;
+        }
+    .row{
+        display: flex;
+        align-items:flex-end;
+    }
+}

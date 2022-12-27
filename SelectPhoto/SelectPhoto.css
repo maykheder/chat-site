@@ -1,0 +1,470 @@
+
+@media (min-height:200px){
+    .portfolio{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+       height: 180px;
+       margin-bottom: 0px;
+       margin-top: 5px;
+       
+        
+    }
+    
+    .portfolio .swiper{
+        overflow: visible!important;
+    }
+    .portfolio-slider {
+       
+        width: 160px;
+    }
+    .portfolio-slider .swiper-slide{
+        width: 100px;
+        
+       
+    }
+    .portfolio-slider img{
+        border-radius: 20px;
+        width:158px ;
+        height: 165px;
+    }
+    
+    .send > p{
+        color: white;
+        display: flex;
+        margin-bottom: 7px;
+        
+        
+        
+    }
+    .send{
+        width: 80%;
+        height:200px ;
+     margin-bottom: 9px;
+        margin-left: 30px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        padding-bottom: 0px;
+        font-size: 10px;
+       
+    
+        
+    }
+    .send .add-wrap-2{
+        width: 338.5px;
+        height: 40px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+        
+    
+    }
+    .send .line{
+        visibility: hidden ;
+    }
+    .Delete{
+        width: 178px;
+        height: 25px;
+        border: none;
+        border-radius: 15px;
+        background: linear-gradient(46deg,#2B2B2B,#454545);
+        color: white;
+        font-size: 11px;
+        
+    }
+    .home-line4{
+        width: 55px;
+        height: 1px;
+        background-color: #525151;
+        border-radius: 13px;
+       margin-top: 10px;
+        margin-left:38% ;
+        margin-bottom: 5px
+    }
+   
+}
+@media (min-height:568px){
+    .portfolio{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+       height: 280px;
+       margin-bottom: 0px;
+       margin-top: 25px;
+       
+        
+    }
+    
+    .portfolio .swiper{
+        overflow: visible!important;
+    }
+    .portfolio-slider {
+       
+        width: 205px;
+    }
+    .portfolio-slider .swiper-slide{
+        width: 100px;
+        
+       
+    }
+    .portfolio-slider img{
+        border-radius: 20px;
+        width:208px ;
+        height: 265px;
+    }
+    
+    .send > p{
+        color: white;
+        display: flex;
+        margin-bottom: 12px;
+        
+        
+        
+    }
+    .send{
+        width: 80%;
+        height:210px ;
+     margin-bottom: 26px;
+        margin-left: 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        padding-bottom: 0px;
+        font-size: 10px;
+       
+    
+        
+    }
+    .send .add-wrap-2{
+        width: 338.5px;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+        
+    
+    }
+    .send .line{
+        visibility: hidden ;
+    }
+    .Delete{
+        width: 218px;
+        height: 35px;
+        border: none;
+        border-radius: 15px;
+        background: linear-gradient(46deg,#2B2B2B,#454545);
+        color: white;
+        font-size: 11px;
+        
+    }
+    .home-line4{
+        width: 85px;
+        height: 3px;
+        background-color: #525151;
+        border-radius: 13px;
+       margin-top: 15px;
+        margin-left:35% ;
+        margin-bottom: 5px
+    }
+   
+}
+@media (min-height:640px){
+    .portfolio{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+       height: 280px;
+       margin-bottom: 20px;
+       margin-top: 54px;
+       
+        
+    }
+    
+    .portfolio .swiper{
+        overflow: visible!important;
+    }
+    .portfolio-slider {
+       
+        width: 70%;
+    }
+    .portfolio-slider .swiper-slide{
+        width: 100px;
+        
+       
+    }
+    .portfolio-slider img{
+        border-radius: 20px;
+        width:100% ;
+        height: 300px;
+    }
+    
+    .send > p{
+        color: white;
+        display: flex;
+        margin-bottom: 12px;
+        font-size: 13px;
+        
+        
+    }
+    .send{
+        width: 75%;
+        height:290px;
+     margin-bottom: 26px;
+        margin-left: 17%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        padding-bottom: 0px;
+        font-size: 10px;
+    
+    }
+   
+    .send .add-wrap-2 .left img{
+        width: 35px;
+        height: 35px;
+    }
+    .send .add-wrap-2{
+        width: 338.5px;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+       
+        
+    
+    }
+    .send .line{
+        visibility: hidden ;
+    }
+    .Delete{
+        width: 218px;
+        height: 40px;
+        border: none;
+        border-radius: 15px;
+        background: linear-gradient(46deg,#2B2B2B,#454545);
+        color: white;
+        font-size: 14px;
+        
+    }
+    .home-line4{
+        width: 85px;
+        height: 3px;
+        background-color: #525151;
+        border-radius: 13px;
+       margin-top: 15px;
+        margin-left:38% ;
+        margin-bottom: 5px
+    }
+   
+}
+@media (min-height:812px){
+    .portfolio{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+       height: 328px;
+       margin-bottom: 30px;
+       margin-top: 75px;
+       
+        
+    }
+    .send .add-wrap-2 .left img{
+        width: 45px;
+        height: 45px;
+    }
+    .portfolio .swiper{
+        overflow: visible!important;
+    }
+    .portfolio-slider {
+       
+        width: 310px;
+    }
+    .portfolio-slider .swiper-slide{
+        width: 100px;
+        
+       
+    }
+    
+    .send > p{
+        color: white;
+        display: flex;
+        margin-bottom: 20px;
+        font-size: 16px;
+        
+        
+    }
+    .send{
+        width: 80%;
+        height:296px ;
+    
+        margin-left: 38px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        padding-bottom: 0px;
+        font-size: 16px;
+       
+    
+        
+    }
+    .send .add-wrap-2{
+        width: 338.5px;
+        height: 40px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+        
+    
+    }
+    .send .line{
+        visibility: hidden ;
+    }
+    .Delete{
+        width: 328px;
+        height: 45px;
+        border: none;
+        border-radius: 20px;
+        background: linear-gradient(46deg,#2B2B2B,#454545);
+        color: white;
+        font-size: 14px;
+        margin-left: 5%;
+        
+    }
+    .home-line4{
+        width: 134px;
+        height: 5px;
+        background-color: #525151;
+        border-radius: 13px;
+       margin-top: 2%;
+      
+        margin-left:140.6px ;
+    }
+    .portfolio-slider img{
+        border-radius: 20px;
+        width:310px ;
+        height: 370px;
+    }
+}
+
+@media (min-height:896px){
+
+    .portfolio{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+       height: 338px;
+       margin-bottom: 40px;
+       margin-top: 104px;
+       
+        
+    }
+    
+    .portfolio .swiper{
+        overflow: visible!important;
+    }
+    .portfolio-slider {
+       
+        width: 338px;
+    }
+    .portfolio-slider .swiper-slide{
+        width: 100px;
+        
+       
+    }
+    .send .add-wrap-2 .left img{
+        width: 50px;
+        height: 50px;
+    }
+    .send > p{
+        color: white;
+        display: flex;
+        margin-bottom: 40px;
+        
+        
+        
+    }
+    .send{
+        width: 338px;
+        height:300px ;
+      
+        margin-left: 38px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        padding-bottom: 0px;
+        font-size: 16px;
+      
+    
+        
+    }
+    .send .add-wrap-2{
+        width: 338.5px;
+        height: 50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+       
+    
+    }
+    .send .line{
+        visibility: hidden ;
+    }
+    .Delete{
+        width: 338px;
+        height: 51px;
+        border: none;
+        border-radius: 20px;
+        background: linear-gradient(46deg,#2B2B2B,#454545);
+        color: white;
+        font-size: 16px;
+        
+    }
+    .home-line4{
+        width: 134px;
+        height: 5px;
+        background-color: #525151;
+        border-radius: 13px;
+       margin-top: 18px;
+        margin-left:144.6px ;
+    }
+    .portfolio-slider img{
+        border-radius: 20px;
+        width:338px ;
+        height: 410px;
+    }
+}
+@media(min-height:910px){
+    .Delete{
+        
+        width: 348px;
+        height: 61px;
+        border: none;
+        border-radius: 20px;
+        background: linear-gradient(46deg,#2B2B2B,#454545);
+        color: white;
+        font-size: 16px;
+        
+    }
+    .send{
+        width: 338px;
+        height:360px ;
+        margin-left: 38px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        padding-bottom: 0px;
+        font-size: 16px;
+      
+    
+        
+    }
+}
