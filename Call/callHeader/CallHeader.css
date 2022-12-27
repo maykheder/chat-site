@@ -1,0 +1,123 @@
+
+@media (min-height:300px){
+    .c-header-left{
+        display: flex;
+        justify-content: space-between;
+        padding-left: 10px;
+    }
+    
+    .call-h-p{
+        margin-top: 44px;
+        margin-left: 50px;
+        color: white;
+          font-size: 13px;
+    }
+    
+    .c-header-left >img{
+        display: flex;
+        width: 15px;
+        height: 15px;
+        margin-top: 46px;
+    }
+    
+    .c-header-right{
+        padding-right: 19px;
+        padding-top: 46px;
+    }
+    .call-button{
+        width: 13px;
+        height: 13px; 
+    }
+}
+@media(min-height:640px){
+  
+        .c-header-left{
+            display: flex;
+            justify-content: space-between;
+            padding-left: 20px;
+        }
+        
+        .call-h-p{
+            margin-top: 54px;
+            margin-left: 70px;
+            color: white;
+              font-size: 15px;
+        }
+        
+        .c-header-left >img{
+            display: flex;
+            width: 20px;
+            height: 20px;
+            margin-top: 56px;
+        }
+        
+        .c-header-right{
+            padding-right: 19px;
+            padding-top: 56px;
+        }
+        .call-button{
+            width: 16px;
+            height: 16px; 
+        }
+    
+}
+@media (min-height:812px){
+    .c-header-left{
+        display: flex;
+        justify-content: space-between;
+        padding-left: 18px;
+    }
+    
+    .call-h-p{
+        margin-top: 64px;
+        margin-left: 100px;
+        color: white;
+      font-size: 15px;
+    }
+    
+    .c-header-left >img{
+        display: flex;
+        width: 20px;
+        height: 20px;
+        margin-top: 66px;
+    }
+    
+    .c-header-right{
+        padding-right: 16px;
+        padding-top: 66px;
+    }
+    .call-button{
+        width: 18px;
+        height: 18px; 
+    }
+}
+@media (min-height:896px){
+    .c-header-left{
+        display: flex;
+        justify-content: space-between;
+        padding-left: 16px;
+    }
+    
+    .call-h-p{
+        margin-top: 72px;
+        margin-left: 117px;
+        color: white;
+      font-size: 16px;
+    }
+    
+    .c-header-lft>img{
+        display: flex;
+        width: 20px;
+        height: 20px;
+        margin-top: 74px;
+    }
+    
+    .c-header-right{
+        padding-right: 14px;
+        padding-top: 74px;
+    }
+    .call-button{
+        width: 20.89px;
+        height: 20.93px; 
+    }
+}

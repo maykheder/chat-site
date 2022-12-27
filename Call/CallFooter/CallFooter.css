@@ -1,0 +1,207 @@
+@media (min-height:200px){
+    .call-footer-wrap{
+        display: flex;
+        position:absolute ;
+        margin: auto;
+        background-color: #1F1F1F;
+        height: 80px;
+        width: 100%;
+        border-radius: 30px 30px 0 0;
+        flex-direction: column;
+        margin-top: 10%;
+        
+    }
+    .c-icons{
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        gap: 3%;
+       
+    }
+    .home-line{
+        display: flex;
+        height: 2px;
+        width: 80px;
+        background-color:#7070708f;
+        position: absolute;
+        margin-top: 80px;
+        margin-left: 35%;
+        border-radius: 15px;
+    }
+    
+    .c-icons img{
+        margin-top:27px;
+        width: 8px;
+        height: 8px;
+        
+    }
+}
+@media (min-height:508px){
+    .call-footer-wrap{
+        display: flex;
+        position:absolute ;
+        margin: auto;
+        background-color: #1F1F1F;
+        height: 90px;
+        width: 100%;
+        border-radius: 30px 30px 0 0;
+        flex-direction: column;
+        margin-top: 19vh;
+        
+    }
+    .c-icons{
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        gap: 10%;
+       
+    }
+    .home-line{
+        display: flex;
+        height: 3px;
+        width: 104px;
+        background-color:#7070708f;
+        position: absolute;
+        margin-top: 80px;
+        margin-left: 35%;
+        border-radius: 15px;
+    }
+    
+    .c-icons img{
+        margin-top: 32px;
+        width: 15px;
+        height: 15px;
+        
+    }
+}
+@media (min-height:640px){
+    
+        .call-footer-wrap{
+            display: flex;
+            position:absolute ;
+            margin: auto;
+            background-color: #1F1F1F;
+            height: 90px;
+            width: 100%;
+            border-radius: 30px 30px 0 0;
+            flex-direction: column;
+            margin-top: 22vh;
+            margin-bottom: 0px;
+            
+        }
+        .c-icons{
+            justify-content: center;
+            display: flex;
+            align-items: center;
+            gap: 10%;
+           
+        }
+        .home-line{
+            display: flex;
+            height: 3px;
+            width: 104px;
+            background-color:#7070708f;
+            position: absolute;
+            margin-top: 80px;
+            margin-left: 35%;
+            border-radius: 15px;
+        }
+        
+        .c-icons img{
+            margin-top: 32px;
+            width: 15px;
+            height: 15px;
+            
+        }
+    }
+    @media(min-height:710px){
+        .call-footer-wrap{margin-top: 31vh;}
+    }
+
+@media (min-height:812px){
+    .call-footer-wrap{
+        display: flex;
+        position:absolute ;
+        margin: auto;
+        background-color: #1F1F1F;
+        height: 120px;
+        width: 100%;
+        border-radius: 30px 30px 0 0;
+        flex-direction: column;
+        margin-top: 26vh;
+        
+    }
+    .c-icons{
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        gap: 40px;
+       
+    }
+    .home-line{
+        display: flex;
+        height: 5px;
+        width: 134px;
+        background-color:#7070708f;
+        position: absolute;
+        margin-top: 106px;
+        margin-left: 140.6px;
+        border-radius: 15px;
+    }
+    
+    .c-icons img{
+        margin-top: 38px;
+        width: 20px;
+        height: 20px;
+    }
+}
+@media (min-height:896px){
+    .call-footer-wrap{
+        display: flex;
+        position:absolute ;
+        margin: auto;
+        background-color: #1F1F1F;
+        height: 120px;
+        width: 414px;
+        border-radius: 30px 30px 0 0;
+        flex-direction: column;
+        margin-top: 30vh;
+        
+    }
+    .c-icons{
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        gap: 77.5px;
+       
+    }
+    .home-line{
+        display: flex;
+        height: 5px;
+        width: 134px;
+        background-color:#7070708f;
+        position: absolute;
+        margin-top: 106px;
+        margin-left: 140.6px;
+        border-radius: 15px;
+    }
+    
+    .c-icons img{
+        margin-top: 33px;
+        width: 25px;
+        height: 25px;
+    }
+}
+@media (min-height:916px){
+    .call-footer-wrap{
+        display: flex;
+        position:absolute ;
+        margin: auto;
+        background-color: #1F1F1F;
+        height: 120px;
+        width: 414px;
+        border-radius: 30px 30px 0 0;
+        flex-direction: column;
+        margin-top: 35vh;
+        
+    }}
