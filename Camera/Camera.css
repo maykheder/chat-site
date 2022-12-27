@@ -1,0 +1,446 @@
+@media(min-height:200px){
+    .camera-ui .camera{
+        height: 70%;
+        width: 100%;
+        
+        
+        }
+        .camera-footer{
+        height: 58px;
+        width: 100%;
+        background-color: rgb(0, 0, 0);
+        
+        }
+        
+        .close{
+            
+            height: 20px;
+            width:20px;
+            margin-top: 35px;
+            margin-left: 15px;
+          
+        }
+        .auto{
+            color: white;
+            height: 15px;
+            width: 35px;
+            background-color: #F5AA00;
+            margin-top: 40px;
+            margin-left: 80%;
+            border-radius: 50px;
+            font-size: 13px;
+            font-family: sans-serif;
+        }
+        .flex1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+        }
+        .studio{
+            height: 30px;
+            width: 30px;
+            border-radius: 8px;
+            margin-top:185% ;
+            margin-left:19px ;
+            z-index: 1;
+        }
+        .shot{
+            margin-top: 183%;
+            margin-left: 43%;
+            z-index: 1;
+            width:35px;
+            height: 35px;
+        }
+        .refresh{
+            z-index: 1;
+            margin-top:188%;
+            margin-left:80%;
+        }
+        .home-line3{
+            width: 80px;
+            height: 2px;
+            background-color: #3a3636;
+            border-radius: 13px;
+            margin-top: 15px;
+            margin-left:59px ;
+        }
+        .shadow{
+            height: 234.38px;
+            margin-top: 120%;
+            width: 414px;
+            background: linear-gradient(0deg,#000000,#ffffff00);
+        }
+}
+@media(min-height:560px){
+    .camera-ui .camera{
+        height: 588px;
+        width: 100%;
+        
+        
+        }
+        .camera-footer{
+        height: 28px;
+        width: 100%;
+        background-color: rgb(0, 0, 0);
+        
+        }
+        
+        .close{
+            
+            height: 30px;
+            width:30px;
+            margin-top: 45px;
+            margin-left: 19px;
+          
+        }
+        .auto{
+            color: white;
+            height: 15px;
+            width: 35px;
+            background-color: #F5AA00;
+            margin-top: 55px;
+            margin-left: 240px;
+            border-radius: 50px;
+            font-size: 13px;
+            font-family: sans-serif;
+        }
+        .flex1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+        }
+        .studio{
+            height: 35px;
+            width: 35px;
+            border-radius: 8px;
+            margin-top:540px ;
+            margin-left:29px ;
+            z-index: 1;
+        }
+        .shot{
+            margin-top: 543px;
+            margin-left: 120px;
+            z-index: 1;
+            width:45px;
+            height: 45px;
+        }
+        .refresh{
+            z-index: 1;
+            margin-top:550px;
+            margin-left:237px ;
+        }
+        .home-line3{
+            width: 88px;
+            height: 4px;
+            background-color: #3a3636;
+            border-radius: 13px;
+            margin-top: 18px;
+            margin-left:100.6px ;
+        }
+        .shadow{
+            height: 234.38px;
+            margin-top: 470.6px;
+            width: 414px;
+            background: linear-gradient(0deg,#000000,#ffffff00);
+        }
+}
+@media(min-height:640px){
+    .camera-ui .camera{
+        height: 688px;
+        width: 100%;
+        
+        
+        }
+        .camera-footer{
+        height: 38px;
+        width: 100%;
+        background-color: rgb(0, 0, 0);
+        
+        }
+        
+        .close{
+            
+            height: 30px;
+            width:30px;
+            margin-top: 45px;
+            margin-left: 19px;
+          
+        }
+        .auto{
+            color: white;
+            height: 20px;
+            width: 40px;
+            background-color: #F5AA00;
+            margin-top: 58px;
+            margin-left: 270px;
+            border-radius: 50px;
+            font-size: 13px;
+            font-family: sans-serif;
+        }
+        .flex1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+        }
+        .studio{
+            height: 40px;
+            width: 40px;
+            border-radius: 8px;
+            margin-top:640px ;
+            margin-left:29px ;
+            z-index: 1;
+        }
+        .shot{
+            margin-top: 636px;
+            margin-left: 140px;
+            z-index: 1;
+            width:50px;
+            height: 50px;
+        }
+        .refresh{
+            z-index: 1;
+            margin-top:650px;
+            margin-left:277px ;
+        }
+        .home-line3{
+            width: 104px;
+            height: 4px;
+            background-color: #3a3636;
+            border-radius: 13px;
+            margin-top: 28px;
+            margin-left:120.6px ;
+        }
+        .shadow{
+            height: 234.38px;
+            margin-top: 550.6px;
+            width: 414px;
+            background: linear-gradient(0deg,#000000,#ffffff00);
+        }
+}
+@media(min-height:812px){
+    .camera-ui .camera{
+        height: 820px;
+        width: 100%;
+        
+        
+        }
+        .camera-footer{
+        height: 38px;
+        width: 100%;
+        background-color: rgb(0, 0, 0);
+        
+        }
+        
+        .close{
+            
+            height: 38px;
+            width:38px;
+            margin-top: 52px;
+            margin-left: 19px;
+          
+        }
+        .auto{
+            color: white;
+            height: 25px;
+            width: 48px;
+            background-color: #F5AA00;
+            margin-top: 58px;
+            margin-left: 330px;
+            border-radius: 50px;
+            font-size: 14px;
+            font-family: sans-serif;
+        }
+        .flex1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+        }
+        .studio{
+            height: 48px;
+            width: 48px;
+            border-radius: 8px;
+            margin-top:760px ;
+            margin-left:29px ;
+            z-index: 1;
+        }
+        .shot{
+            margin-top: 757px;
+            margin-left: 169px;
+            z-index: 1;
+            width:60px;
+            height: 60px;
+        }
+        .refresh{
+            z-index: 1;
+            margin-top:780px;
+            margin-left:337px ;
+        }
+        .home-line3{
+            width: 134px;
+            height: 5px;
+            background-color: #3a3636;
+            border-radius: 13px;
+            margin-top: 28px;
+            margin-left:140.6px ;
+        }
+        .shadow{
+            height: 234.38px;
+            margin-top: 630.6px;
+            width: 414px;
+            background: linear-gradient(0deg,#000000,#ffffff00);
+        }
+}
+@media(min-height:896px){
+    .camera-ui .camera{
+        height: 848px;
+        width: 414px;
+        
+        
+        }
+        .camera-footer{
+        height: 48px;
+        width: 414px;
+        background-color: rgb(0, 0, 0);
+        
+        }
+        
+        .close{
+            
+            height: 44px;
+            width: 44px;
+            margin-top: 57px;
+            margin-left: 21px;
+          
+        }
+        .auto{
+            color: white;
+            height: 27px;
+            width: 51px;
+            background-color: #F5AA00;
+            margin-top: 61px;
+            margin-left: 342px;
+            border-radius: 50px;
+            font-size: 16px;
+            font-family: sans-serif;
+        }
+        .flex1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+        }
+        .studio{
+            height: 48px;
+            width: 48px;
+            border-radius: 8px;
+            margin-top:788px ;
+            margin-left:21px ;
+            z-index: 1;
+        }
+        .shot{
+            margin-top: 780px;
+            margin-left: 176px;
+            z-index: 1;
+            width:64px;
+            height: 64px;
+            
+        }
+        .refresh{
+            z-index: 1;
+            margin-top: 803px;
+            margin-left:357px ;
+        }
+        .home-line3{
+            width: 134px;
+            height: 5px;
+            background-color: #3a3636;
+            border-radius: 13px;
+            margin-top: 28px;
+            margin-left:140.6px ;
+        }
+        .shadow{
+            height: 234.38px;
+            margin-top: 661.6px;
+            width: 414px;
+            background: linear-gradient(0deg,#000000,#ffffff00);
+        }
+}
+@media(min-height:947px){
+    .camera-ui .camera{
+        height: 868px;
+        width: 414px;
+        
+        
+        }
+        .camera-footer{
+        height: 20vh;
+        width: 414px;
+        background-color: rgb(0, 0, 0);
+        
+        }
+        
+        .close{
+            
+            height: 44px;
+            width: 44px;
+            margin-top: 57px;
+            margin-left: 21px;
+          
+        }
+        .auto{
+            color: white;
+            height: 27px;
+            width: 51px;
+            background-color: #F5AA00;
+            margin-top: 61px;
+            margin-left: 342px;
+            border-radius: 50px;
+            font-size: 16px;
+            font-family: sans-serif;
+        }
+        .flex1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+        }
+        .studio{
+            height: 48px;
+            width: 48px;
+            border-radius: 8px;
+            margin-top:798px ;
+            margin-left:21px ;
+            z-index: 1;
+        }
+        .shot{
+            margin-top: 790px;
+            margin-left: 176px;
+            z-index: 1;
+            width:64px;
+            height: 64px;
+            
+        }
+        .refresh{
+            z-index: 1;
+            margin-top: 823px;
+            margin-left:357px ;
+        }
+        .home-line3{
+            width: 134px;
+            height: 5px;
+            background-color: #3a3636;
+            border-radius: 13px;
+            margin-top: 26px;
+            margin-left:140.6px ;
+        }
+        .shadow{
+            height: 234.38px;
+            margin-top: 661.6px;
+            width: 414px;
+            background: linear-gradient(0deg,#000000,#ffffff00);
+        }
+}

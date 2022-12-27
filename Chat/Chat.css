@@ -1,0 +1,154 @@
+
+@media(min-height:300px){
+    
+
+    
+    .time{
+        color:rgb(204, 200, 200);
+        margin-right:0px ;
+       margin-bottom:22px;
+       font-size: 9px;
+       
+    }
+    
+    .chats .add-wrap{
+        
+        margin-left: 14px;
+       margin-bottom:2px;
+       
+    }
+    
+    .shadow2{
+        height: 234.38px;
+        margin-top: 280px;
+        width: 414px;
+        background: linear-gradient(0deg,#000000,#0e0d0d1c);
+    }
+    
+}
+
+@media(min-height:510px){
+    
+
+    
+    .time{
+        color:rgb(204, 200, 200);
+        margin-right:0px ;
+       margin-bottom:22px;
+       font-size: 9px;
+       
+    }
+    
+    .chats .add-wrap{
+        
+        margin-left: 16px;
+       margin-bottom:4px;
+       
+    }
+    
+    .shadow2{
+        height: 234.38px;
+        margin-top: 300px;
+        width: 414px;
+        background: linear-gradient(0deg,#000000,#0e0d0d1c);
+    }
+    
+}
+
+@media(min-height:640px){
+    
+    .time{
+        color:rgb(204, 200, 200);
+        margin-right:0px ;
+       margin-bottom:22px;
+       font-size: 13px;
+       text-decoration: none;
+    }
+    
+    .chats .add-wrap{
+        
+        margin-left: 16px;
+       margin-bottom:13px;
+       text-decoration: none;
+    }
+    
+    .shadow2{
+        height: 234.38px;
+        margin-top: 400px;
+        width: 414px;
+        background: linear-gradient(0deg,#000000,#0e0d0d1c);
+    }
+    }
+    @media(min-height:740px){
+    
+        .time{
+            color:rgb(204, 200, 200);
+            margin-right:0px ;
+           margin-bottom:22px;
+           font-size: 13px;
+        }
+        
+        .chats .add-wrap{
+            
+            margin-left: 16px;
+           margin-bottom:22px;
+        }
+        
+        .shadow2{
+            height: 234.38px;
+            margin-top: 470px;
+            width: 414px;
+            background: linear-gradient(0deg,#000000,#0e0d0d1c);
+        }
+        }
+@media(min-height:812px){
+    
+    .time{
+        color:rgb(204, 200, 200);
+        margin-right:0px ;
+       margin-bottom:22px;
+       font-size: 13px;
+    }
+    
+    .chats .add-wrap{
+        
+        margin-left: 16px;
+       margin-bottom:27px;
+    }
+    
+    .shadow2{
+        height: 234.38px;
+        margin-top: 600px;
+        width: 414px;
+        background: linear-gradient(0deg,#000000,#0e0d0d1c);
+    }
+    }
+@media(min-height:896px){
+    
+.time{
+    color:rgb(204, 200, 200);
+   margin-bottom:22px;
+   margin-right:0px ;
+}
+
+.chats .add-wrap{
+    
+    margin-left: 16px;
+   margin-bottom:10px;
+}
+
+.shadow2{
+    height: 234.38px;
+    margin-top: 600px;
+    width: 414px;
+    background: linear-gradient(0deg,#000000,#0e0d0d1c);
+}
+}
+@media(min-height:916px){
+    .shadow2{
+        height: 234.38px;
+        margin-top: 680px;
+        width: 414px;
+        background: linear-gradient(0deg,#000000,#0e0d0d1c);
+    }
+}
